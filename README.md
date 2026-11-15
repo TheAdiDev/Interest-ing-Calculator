@@ -9,7 +9,7 @@ Additionally, you can compute interest annually, semi-annually and quarterly!
 > ## Installation
 > 1) Clone the repository via Git using:
 >  ```sh
->  git clone https://github.com/AdityaKDevHub/Interest-ing-Calculator.git
+>  git clone https://github.com/TheAdiDev/Interest-ing-Calculator.git
 >  ```
 >
 >OR
